@@ -1,5 +1,6 @@
-Flask
-sklearn
 pandas
 numpy
 matplotlib
+streamlit
+numpy
+scikit-learn
