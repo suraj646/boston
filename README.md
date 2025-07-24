@@ -6,7 +6,7 @@
 2. [VSCodeIDE](https://code.visualstudio.com/)
 3. ## 🔗 Live Demo
 
-👉 [Click here to try the app](https://your-streamlit-url.streamlit.app)
+👉 [Click here to try the app]([https://your-streamlit-url.streamlit.app](https://boston-xlpfw2yzgc2ehx7dnb83ox.streamlit.app/))
 
 4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
 
